@@ -1,0 +1,13 @@
+{
+  "id": 8397,
+  "title": "EIP-8397: Frame Authenticator Signatures",
+  "status": "Draft",
+  "description": "Adds a bounded, state-independent custom-authentication signature scheme to frame transactions.",
+  "author": "Taek (@leekt)",
+  "type": "Standards Track",
+  "category": "Core",
+  "createdDate": "2026-08-26",
+  "discussionLink": "https://ethereum-magicians.org/t/eip-8397-frame-authenticator-signatures/29517",
+  "forkRelationships": [],
+  "tradeoffs": null
+}
